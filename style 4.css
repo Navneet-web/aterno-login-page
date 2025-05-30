@@ -1,0 +1,73 @@
+*{
+
+}
+.main{
+	width: 101%;
+	height: 109vh;
+	background-size: cover;
+	background-position: center;
+	background-color: grey;
+}
+.logo{
+	display: flex;
+}
+img{
+	width: 50px;
+	height: 50px;
+	margin-top: 10px;
+	padding-left: 10px;
+}
+
+.box{
+	display: flex;
+	background-color: grey;
+	height: 50px;
+}
+.box .box1{
+	height: 5px;
+	background-color: black;
+	margin-top: 26px;
+	width: 50%;
+	margin-left: 300px;
+}
+.box .box2{
+	color: black;
+
+}
+.box .box3{
+	height: 5px;
+	background-color: black;
+	margin-top: 27.5px;
+	width: 50%;
+	margin-right: 300px;
+}
+.btn{
+	background-color: deepskyblue;
+	font-family: sans-serif;
+	width: 50%;
+	margin-left: 300px;
+	height: 60px;
+	margin-right: 350px;
+}
+.v{
+	padding-left: 450px;
+	margin-top: 100px;
+}
+.contain{
+	margin-left:  25%;
+	display: flex;
+	width: 50%;
+	justify-content: space-between;
+}
+.contain .btn2{
+	width: 70px;
+	height: 22px;
+	margin-top: 68px;
+	background-color: deepskyblue;
+}
+.btn3{
+	width: 50%;
+	height: 45px;
+	margin-left: 25%;
+	margin-top: 35px;
+}
